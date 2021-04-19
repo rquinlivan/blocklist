@@ -1,0 +1,8 @@
+seg.ad.gt
+static.adsafeprotected.com
+script.crazyegg.com
+www.google-analytics.com
+www.googletagmanager.com
+a.ad.gt
+cm.g.doubleclick.net
+px.moatads.com
